@@ -14,8 +14,7 @@ Messing with the registry (where Windows stores settings) can be risky if you do
 
 ## How to use PowerMenu
 
-1. **Download the repository:** `Green button` -> `Download ZIP`
-2. **Extract the ZIP file:** Right click the file -> `Extract Here`
-3. **Open the folder and run as Administrator:** Right-click the extracted `PowerMenu.bat` file and choose `Run as administrator`.
+1. Download the bat file from the (latest release)[https://github.com/zeiglermensch/PowerMenu/releases/tag/latest]
+3. **Run the bat file as Administrator:** Right-click the downloaded `PowerMenu.bat` file and choose `Run as administrator`.
 4. **Follow the instructions:** The script will tell you what to do!
 5. **Restart Explorer (or your whole computer):** Changes might not show up until you do this!
